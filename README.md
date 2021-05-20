@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raj-developer-coder
+- 👋 Hi, I’m @tushar-developer-coder
 - 👀 I’m interested in web and Android development
 - 🌱 I’m currently learning python , Java , JavaScript, html , css.
 
